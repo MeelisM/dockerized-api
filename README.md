@@ -1,4 +1,4 @@
-# play-with-containers
+# Dockerized API
 
 This project implements a microservices architecture using Docker and Docker Compose. It consists of multiple services that work together to provide a complete application.
 
