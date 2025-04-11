@@ -47,7 +47,7 @@ The system consists of the following components:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/MeelisM/play-with-containers.git && cd play-with-containers
+git clone https://github.com/MeelisM/dockerized-api.git && cd dockerized-api
 ```
 
 ### Rename `.env-example` to `.env` and add the missing values.
